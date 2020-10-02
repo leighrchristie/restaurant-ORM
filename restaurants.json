@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "Flour & Grape",
+        "image": "image.jpeg",
+        "city": "London"
+    },
+    {
+        "id": 2,
+        "name": "Crol & co",
+        "image": "image.jpeg",
+        "city": "London"
+    }
+]
